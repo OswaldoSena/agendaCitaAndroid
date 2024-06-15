@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Agenda Cita</string>
+    <string name="inicio">Inicio</string>
+    <string name="regis">Registrate</string>
+    <string name="osbor">Osbor Médica</string>
+    <string name="hint_Name">nombre</string>
+    <string name="user">Usuario</string>
+    <string name="contra">Contraseña</string>
+    <string name="smOsPie">Servicio de Mantenimiento OSBOR Médica 2024</string>
+    <string name="name_eqipo">Nombre del equipo</string>
+    <string name="marca">Marca</string>
+    <string name="modelo">Modelo</string>
+    <string name="observa">Observaciones</string>
+    <string name="serie">No de Serie</string>
+    <string name="cance">Cancelar</string>
+    <string name="agen">Agendar</string>
+    <string name="SM_OM">Servicio de Mantenimiento OSBOR Médica 2024</string>
+</resources>
